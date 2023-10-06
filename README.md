@@ -2,8 +2,7 @@
 About me and my project 
 <h1 class="text-center">About Me</h1>
                     <img src="images/about.jpg" class= "imageAboutPage" alt="">
-                
-                    <p> I am vikash kag. I am  living in Indore. I am fresher to web Development.My technical skill is python. I did my graduation BSC (electronic & communication) from P.M.B. gujrati science college Indore. 
+<p> I am vikash kag. I am  living in Indore. I am fresher to web Development.My technical skill is python. I did my graduation BSC (electronic & communication) from P.M.B. gujrati science college Indore. 
  </p> 
 <ul>
   <li>Name: Vikash kag</li>
@@ -14,61 +13,30 @@ About me and my project
  <li>mother's name:Mrs. Pushpa kag</li>
  <li>contact:8349193446</li>.               <li>Email: vikashkag095@gmail.com </li>
 </ul>
+ <p>My best thing is that I learn things very quickly. And I have the curiosity to learn new things and adapt very easily to any environment </p>
 
- <p>My best thing is that I learn things very quickly. And I have the curiosity to learn new things and adapt very easily to any environment.
-                        </p>
-                    </div>
-                </div>
-            </div>
-    </section>
+<h1 class="text-center">Skill</h1>
+ <h4 class="card-title mt-3">python</h4>
+                            
+<p class="card-text mt-3">I have completed my python from universal informatics Indore.I am certified to python. my learning duration 45 to 60 days.
+ </p>
 
-    <!-- services section-->
-    <section id="services">
-        <div class="container">
-            <h1 class="text-center">Skill</h1>
-            <div class="row">
-                <div class="col-lg-4 mt-4">
-                    <div class="card servicesText">
-                        <div class="card-body">
-                            <i class="fas servicesIcon fa-clock"></i>
-                            <h4 class="card-title mt-3">python</h4>
-                            <p class="card-text mt-3">I have completed my python from universal informatics Indore.I am certified to python. my learning duration 45 to 60 days.
-                            </p>
-                        </div>
-                    </div>  
-                </div>
-                <div class="col-lg-4 mt-4">
-                    <div class="card servicesText">
-                        <div class="card-body">
-                            <i class='fas servicesIcon fa-layer-group'></i>
-                            <h4 class="card-title mt-3">R language</h4>
-                            <p class="card-text mt-3">I am self taught R language and I have basic knowledge about it.
-                            </p>
-                        </div>
-                    </div>  
-                </div>
+                           
+ <h4 class="card-title mt-3">R language</h4>
+                            
+<p class="card-text mt-3">I am self taught R language and I have basic knowledge about it.                         
+</p>
 
-                <div class="col-lg-4 mt-4">
-                    <div class="card servicesText">
-                        <div class="card-body">
-                            <i class='far servicesIcon fa-check-circle'></i>
-                            <h4 class="card-title mt-3">Html ,CSS</h4>
-                            <p class="card-text mt-3">I have basic knowledge about HTML and CSS. I know what are their uses and how  to use them in any website. HTML is basic structure of any website. and CSS adds beuty to it.
-                            </p>
-                        </div>
-                    </div>  
-                </div>
-            </div>
-
-
-    <!-- portfolio section-->
-    <section id="portfolio">
-        <div class="container mt-3">
-            <h1 class="text-center">Project</h1>
-            <div class="row">
-                <div class="col-lg-4 mt-4">
-                    <div class="card">
-                        <img class="card-img-top" src="images/project 1.png" alt="Card image" style="width:100%">
+                            
+<h4 class="card-title mt-3">Html ,CSS</h4>
+                           
+ <p class="card-text mt-3">I have basic knowledge about HTML and CSS. I know what are their uses and how  to use them in any website. HTML is basic structure of any website. and CSS adds beuty to it.
+</p>
+            
+<h1 class="text-center">Project</h1>
+        
+                        
+<img class="card-img-top" src="images/project 1.png" alt="Card image" style="width:100%">
                         <div class="card-body">
                             <h4 class="card-title">Project</h4>
                             <p class="card-text">I have created this website with the help of Google itself. this website is based on a resort </p>
