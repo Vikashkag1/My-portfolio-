@@ -22,9 +22,9 @@ About me and my project
  </p>
 
                            
- <h4 class="card-title mt-3">R language</h4>
+ <h4 class="card-title mt-3"> PHP </h4>
                             
-<p class="card-text mt-3">I am self taught R language and I have basic knowledge about it.                         
+<p class="card-text mt-3">I am self taught PHP language and I have basic knowledge about it.                         
 </p>
 
                             
@@ -38,88 +38,85 @@ About me and my project
                         
 <img class="card-img-top" src="images/project 1.png" alt="Card image" style="width:100%">
                         <div class="card-body">
-                            <h4 class="card-title">Project</h4>
-                            <p class="card-text">I have created this website with the help of Google itself. this website is based on a resort </p>
-                            <div class="text-center">
-                                <a href="https://drive.google.com/file/d/1mCPjCDIFVT-h1HXeOByEJcyXcD7NTwzX/view?usp=share_link" class="btn btn-success">Link</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mt-4">
-                    <div class="card portfolioContent">
-                        <img class="card-img-top" src="images/project2.png" alt="Card image" style="width:100%">
-                        <div class="card-body">
+                            
+<h4 class="card-title">Project</h4>
+                            
+<p class="card-text">I have created this website with the help of Google itself. this website is based on a resort </p>
+                             class="text-center">
+                                
+<a href="https://drive.google.com/file/d/1mCPjCDIFVT-h1HXeOByEJcyXcD7NTwzX/view?usp=share_link" class="btn btn-success">Link</a>
+              
+                        
+<img class="card-img-top" src="images/project2.png" alt="Card image" style="width:100%">
                             <h4 class="card-title">Dairy product website<form action=""></form></h4>
                             <p class="card-text">I have created this website with the help of youtube to watch this its portfolio vedio , touch the link button below:</p>
                             <div class="text-center">
-                                <a href="https://drive.google.com/file/d/1PBxkHhjUa7yDEK_uNgtHPqSyhw5NsnVr/view?usp=share_link" class="btn btn-success">Link</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mt-4">
-                    <div class="card portfolioContent">
-                        <img class="card-img-top" src="images/project3.png" alt="Card image" style="width:100%">
-                        <div class="card-body">
-                            <h4 class="card-title">website</h4>
-                            <p class="card-text">I have created this website with rendering method, to watch its portfolio video, touch the link button below.</p>
-                            <div class="text-center">
-                                <a href="https://drive.google.com/file/d/1RuCDv675wcF6CYA0fXrW5o__WWeYEt3A/view?usp=share_link" class="btn btn-success">Link</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-lg-4 mt-4">
-                    <div class="card portfolioContent">
-                        <img class="card-img-top" src="images/voice ass.jpg" alt="Card image" style="width:100%">
-                        <div class="card-body">
-                            <h4 class="card-title">my voice assistant program</h4>
-                            <p class="card-text">I have made this program with the help of google, to watch this program click on the link button given below.</p>
-                            <div class="text-center">
-                                <a href="https://drive.google.com/file/d/1A8wbYX9sJL0-zDEtu6Lkxuvu6OCpwd5c/view?usp=share_link" class="btn btn-success">Link</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-<!-- 
-                <div class="col-lg-4 mt-4">
-                    <div class="card portfolioContent">
-                        <img class="card-img-top" src="images/portfolioImage1.jpg" alt="Card image" style="width:100%">
-                        <div class="card-body">
-                            <h4 class="card-title">Twitter Clone</h4>
-                            <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <div class="text-center">
-                                <a href="#" class="btn btn-success">Link</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mt-4">
-                    <div class="card portfolioContent">
-                        <img class="card-img-top" src="images/portfolioImage4.jpg" alt="Card image" style="width:100%">
-                        <div class="card-body">
-                            <h4 class="card-title">Blog App</h4>
-                            <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                            <div class="text-center">
-                                <a href="#" class="btn btn-success">Link</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                                
+<a href="https://drive.google.com/file/d/1PBxkHhjUa7yDEK_uNgtHPqSyhw5NsnVr/view?usp=share_link" class="btn btn-success">Link</a>
+        
+                    
+<div class="card portfolioContent">
+                        
+<img class="card-img-top" src="images/project3.png" alt="Card image" style="width:100%">
+                       
+ <div class="card-body">
+                            
+<h4 class="card-title">website</h4>
+                           
+ <p class="card-text">I have created this website with rendering method, to watch its portfolio video, touch the link button below.</p>
+                            
+<div class="text-center">
+                               
+ <a href="https://drive.google.com/file/d/1RuCDv675wcF6CYA0fXrW5o__WWeYEt3A/view?usp=share_link" class="btn btn-success">Link</a>
+     
+                   
+ <div class="card portfolioContent">
+                       
+ <img class="card-img-top" src="images/voice ass.jpg" alt="Card image" style="width:100%">
+                        
+<div class="card-body">
+                            
+<h4 class="card-title">my voice assistant program</h4>
+                            
+<p class="card-text">I have made this program with the help of google, to watch this program click on the link button given below.</p>
+                           
+ <div class="text-center">
+                                
+<a href="https://drive.google.com/file/d/1A8wbYX9sJL0-zDEtu6Lkxuvu6OCpwd5c/view?usp=share_link" class="btn btn-success">Link</a>
+                    
+<div class="card portfolioContent">
+                        
+<img class="card-img-top" src="images/portfolioImage1.jpg" alt="Card image" style="width:100%">
+                        
+<div class="card-body">
+                            
+<h4 class="card-title">Twitter Clone</h4>
+                           
+ <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                         
+ <div class="text-center">
+                                
+<a href="#" class="btn btn-success">Link</a>
+                    
+<div class="card portfolioContent">
+                        
+<img class="card-img-top" src="images/portfolioImage4.jpg" alt="Card image" style="width:100%">
+                        
+<div class="card-body">
+                           
+ <h4 class="card-title">Blog App</h4>
+                            
+<p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                           
+ <div class="text-center">
+                                
+<a href="#" class="btn btn-success">Link</a>
     </section> -->
 
     <!-- contact section-->
-    <section id="contact">
-        <div class="container mt-3 contactContent">
-            <h1 class="text-center">Contact Me</h1>
+   
+            
+<h1 class="text-center">Contact Me</h1>
 
             <div class="row mt-4">
                 <div class="col-lg-6">
