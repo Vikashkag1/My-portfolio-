@@ -118,13 +118,13 @@ About me and my project
             
 <h1 class="text-center">Contact Me</h1>
              
-<input type="text" class="form-control form-control-lg" placeholder="Name">
+<input type="text" placeholder="Name">
                         
-<input type="email" class="form-control mt-3" placeholder="Email">
+<input type="email" placeholder="Email">
                        
- <input type="text" class="form-control mt-3" placeholder="Subject">
+ <input type="text" placeholder="Subject">
                             
-<textarea class="form-control" rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
+<textarea rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
                      
                     
 <button type="button" class="btn btn-success mt-3">Contact Me</button>
