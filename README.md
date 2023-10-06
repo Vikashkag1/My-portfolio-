@@ -118,8 +118,7 @@ About me and my project
             
 <h1 class="text-center">Contact Me</h1>
                    
-                   
-<div> style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;">
+                    <style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;">
                        
  <div id="embedmap-canvas" style="height:100%; width:100%;max-width:100%;">
                             
