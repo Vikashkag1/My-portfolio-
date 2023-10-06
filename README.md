@@ -124,7 +124,6 @@ About me and my project
                        
  <input type="text" placeholder="Subject">
                             
-<textarea rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
                      
                     
 <button type="button" class="btn btn-success mt-3">Contact Me</button>
