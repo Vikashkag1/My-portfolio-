@@ -117,9 +117,6 @@ About me and my project
    
             
 <h1 class="text-center">Contact Me</h1>
-                               
-<a class="googlemaps-html" href="" id="get-data-forembedmap">https://www.embed-map.com</a>
-                        
              
 <input type="text" class="form-control form-control-lg" placeholder="Name">
                         
@@ -143,8 +140,4 @@ h4 class="card-title">Social Media</h4
 <a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
                 
 <a href="https://www.twitch.tv/" target="_blank"><i class="fab fa-twitch"></i></a>
-
-
-    <!-- load javascript after loading all html content -->
-    <script src="script/script.js"></script>
 
