@@ -6,12 +6,13 @@ About me and my project
  </p> 
 <ul>
   <li>Name: Vikash kag</li>
-  <li>Age: 28</li>       <li>Occupation:Student</li>  
+  <li>Age: 28</li>       <li>Occupation: job</li>
+<li>company :- Altruist Technology </li>
 </ul>
 <ul>
  <li>father's name: Mr. Laxman kag</li>
  <li>mother's name:Mrs. Pushpa kag</li>
- <li>contact:8349193446</li>.               <li>Email: vikashkag095@gmail.com </li>
+ <li>contact:8349193446, 7241196383</li>.               <li>Email: vikashkag095@gmail.com </li>
 </ul>
  <p>My best thing is that I learn things very quickly. And I have the curiosity to learn new things and adapt very easily to any environment </p>
 
@@ -28,7 +29,7 @@ About me and my project
 </p>
 
                             
-<h4 class="card-title mt-3">Html ,CSS</h4>
+<h4 class="card-title mt-3">Html ,CSS, bootstrap </h4>
                            
  <p class="card-text mt-3">I have basic knowledge about HTML and CSS. I know what are their uses and how  to use them in any website. HTML is basic structure of any website. and CSS adds beuty to it.
 </p>
@@ -111,64 +112,56 @@ About me and my project
  <div class="text-center">
                                 
 <a href="#" class="btn btn-success">Link</a>
-    </section> -->
 
-    <!-- contact section-->
+
    
             
 <h1 class="text-center">Contact Me</h1>
-
-            <div class="row mt-4">
-                <div class="col-lg-6">
-                    <!-- to edit google map goto https://www.embed-map.com type your location, generate html code and copy the html  -->
-                    <div style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;">
-                        <div id="embedmap-canvas" style="height:100%; width:100%;max-width:100%;">
-                            <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=indore&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
-                            </iframe>
-
-                        </div>
-                        <a class="googlemaps-html" href="" id="get-data-forembedmap">https://www.embed-map.com</a>
-                        <style>#embedmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}
-                        </style>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-6">
-                    <!-- form fields -->
-                    <form>
-                        <input type="text" class="form-control form-control-lg" placeholder="Name">
-                        <input type="email" class="form-control mt-3" placeholder="Email">
-                        <input type="text" class="form-control mt-3" placeholder="Subject">
-                        <div class="mb-3 mt-3">
-                            <textarea class="form-control" rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
-                        </div>
-                    </form>
-                    <button type="button" class="btn btn-success mt-3">Contact Me</button>
                     
-                </div>
+<!-- to edit google map goto https://www.embed-map.com type your location, generate html code and copy the html  -->
+                   
+ <div style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;">
+                       
+ <div id="embedmap-canvas" style="height:100%; width:100%;max-width:100%;">
+                            
+<iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=indore&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
+                            
+</iframe>
 
-            </div>
-        </div>
-    </section>
-    <!-- footer section-->
-    <footer id="footer">
-        <div class="container-fluid">
-            <!-- social media icons -->
-            <div class="social-icons mt-4">
-                <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
-                <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
-                <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
-                <a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                <a href="https://www.twitch.tv/" target="_blank"><i class="fab fa-twitch"></i></a>
-            </div>
-        </div>
-    </footer>
+                        
+</div>
+                        
+<a class="googlemaps-html" href="" id="get-data-forembedmap">https://www.embed-map.com</a>
+                        
+<style>#embedmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}
+
+             
+<input type="text" class="form-control form-control-lg" placeholder="Name">
+                        
+<input type="email" class="form-control mt-3" placeholder="Email">
+                       
+ <input type="text" class="form-control mt-3" placeholder="Subject">
+                        
+<div class="mb-3 mt-3">
+                            
+<textarea class="form-control" rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
+                     
+                    
+<button type="button" class="btn btn-success mt-3">Contact Me</button>
+
+h4 class="card-title">Social Media</h4
+                
+<a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
+                
+<a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+               
+ <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+                
+<a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                
+<a href="https://www.twitch.tv/" target="_blank"><i class="fab fa-twitch"></i></a>
+
 
     <!-- load javascript after loading all html content -->
     <script src="script/script.js"></script>
-
-</body>
-
-</html>
 
