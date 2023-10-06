@@ -118,25 +118,13 @@ About me and my project
             
 <h1 class="text-center">Contact Me</h1>
              
-<input type="text" placeholder="Name">
-                        
-<input type="email" placeholder="Email">
-                       
- <input type="text" placeholder="Subject">
-                            
-                     
-                    
-<button type="button" class="btn btn-success mt-3">Contact Me</button>
+<h3> Mobile:-  8349193446, 7241196383</h3>
 
-h4 class="card-title">Social Media</h4
+<h3> Email:- vikashkag095@gmail.com </h3>
+<h4 class="card-title">Social Media</h4>
                 
-<a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
+<a href="https://www.facebook.com/" target="_blank"></a>
                 
-<a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+<a href="https://www.instagram.com/" target="_blank"></a>
                
- <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
-                
-<a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                
-<a href="https://www.twitch.tv/" target="_blank"><i class="fab fa-twitch"></i></a>
 
