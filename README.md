@@ -117,30 +117,15 @@ About me and my project
    
             
 <h1 class="text-center">Contact Me</h1>
-                   
-                    <style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;">
-                       
- <div id="embedmap-canvas" style="height:100%; width:100%;max-width:100%;">
-                            
-<iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=indore&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
-                            
-</iframe>
-
-                        
-</div>
-                        
+                               
 <a class="googlemaps-html" href="" id="get-data-forembedmap">https://www.embed-map.com</a>
                         
-<style>#embedmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}
-
              
 <input type="text" class="form-control form-control-lg" placeholder="Name">
                         
 <input type="email" class="form-control mt-3" placeholder="Email">
                        
  <input type="text" class="form-control mt-3" placeholder="Subject">
-                        
-<div class="mb-3 mt-3">
                             
 <textarea class="form-control" rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
                      
