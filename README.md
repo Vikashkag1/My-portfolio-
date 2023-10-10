@@ -1,7 +1,7 @@
 # My-portfolio-
 About me and my project 
 <h1 class="text-center">About Me</h1>
-                    <img src="images/about.jpg" class= "imageAboutPage" alt="">
+                    <img src="IMG_20230915_185007_533.jpg" class= "imageAboutPage" alt="">
 <p> I am vikash kag. I am  living in Indore. I am fresher to web Development.My technical skill is python. I did my graduation BSC (electronic & communication) from P.M.B. gujrati science college Indore. 
  </p> 
 <ul>
